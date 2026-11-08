@@ -1,6 +1,6 @@
 # Caso Banco BLIS
 
-Estudo de caso interativo sobre segurança e direito no uso de modelos da família BERT. Foi feito para fechar as apresentações do seminário de IA e PLN do BLIS (DTI BR), numa aula EAD síncrona de 20 minutos.
+Estudo de caso interativo sobre segurança e direito no uso de modelos da família BERT. Foi feito para fechar as apresentações do seminário de IA e PLN do BLIS (DTI BR).
 
 **Acesse:** https://jgamacyber.github.io/Banco_BLIS/
 
